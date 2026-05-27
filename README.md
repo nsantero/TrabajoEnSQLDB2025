@@ -4,7 +4,7 @@
 
 Este trabajo fue realizado en el contexto de la materia **Gestión de Datos** de la **UTN FRBA**.
 
-El objetivo consistió en diseñar una **base de datos relacional** a partir de información contenida originalmente en una única tabla maestra. Para ello, se realizó el modelado de datos mediante **diagramas Entidad–Relación (ER)** y posteriormente se migraron los datos hacia una nueva estructura normalizada.
+El objetivo consistió en diseñar una **base de datos relacional** a partir de información contenida originalmente en una única tabla maestra. Para ello, se realizó el modelado de datos mediante **diagramas Entidad–Relación (DER)** y posteriormente se migraron los datos hacia una nueva estructura normalizada.
 
 Una vez implementada la base de datos transaccional, se desarrollaron los **stored procedures** necesarios para construir una solución de **Business Intelligence (BI)** orientada al análisis y explotación de la información.
 

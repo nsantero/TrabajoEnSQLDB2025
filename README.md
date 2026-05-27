@@ -4,4 +4,4 @@
 
 ####Posteriormente se crearon los stored procedures necesarios para crear una base de datos de bussines intelligence.
 
-####Los lineamientos seguidos estan en 
+####Los lineamientos seguidos estan en [enunciado](Enunciado.pdf)
